@@ -1,5 +1,3 @@
-Chapter 4: Enhancing Writing Structure and Coherence with AI
-============================================================
 
 In this chapter, we will explore how AI can be used to enhance the structure and coherence of non-fiction writing.
 

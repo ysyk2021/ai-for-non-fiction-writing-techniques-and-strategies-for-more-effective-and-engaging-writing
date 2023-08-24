@@ -1,5 +1,3 @@
-Overview of Available Tools and Technologies
-=================================================================================================================
 
 In this chapter, we will explore the various tools and technologies available for AI-driven non-fiction writing.
 

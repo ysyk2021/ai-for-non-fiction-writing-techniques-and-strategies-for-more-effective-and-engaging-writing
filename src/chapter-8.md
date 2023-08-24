@@ -1,5 +1,3 @@
-Chapter 8: Future Trends and Opportunities for AI-Driven Non-Fiction Writing
-============================================================================
 
 In this chapter, we will explore emerging trends in AI for non-fiction writing and publishing. We will also discuss the opportunities that AI presents for writers and publishers looking to create more effective and engaging non-fiction content.
 

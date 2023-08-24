@@ -1,5 +1,3 @@
-Using AI for Efficient Research and Data Collection
-========================================================================================================
 
 In this chapter, we will explore how AI can be used to improve research and data collection techniques for non-fiction writing.
 

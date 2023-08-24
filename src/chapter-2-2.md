@@ -1,5 +1,3 @@
-Selecting the Right Tools for Your Writing Needs
-=====================================================================================================================
 
 In this chapter, we will explore how to select the right tools for your specific writing needs when it comes to AI-driven non-fiction writing.
 

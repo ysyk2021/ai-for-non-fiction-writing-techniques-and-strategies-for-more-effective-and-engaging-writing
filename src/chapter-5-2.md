@@ -1,5 +1,3 @@
-Personalized Writing Recommendations and Interventions using AI
-========================================================================================================================
 
 In this chapter, we will explore how AI can be used to improve engagement and readability in non-fiction writing by providing personalized writing recommendations and interventions.
 

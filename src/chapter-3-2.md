@@ -1,5 +1,3 @@
-Predictive Analytics and Forecasting for Content Planning and Strategy
-===========================================================================================================================
 
 In this chapter, we will explore how AI can be used to implement research and analysis techniques for non-fiction writing by providing predictive analytics and forecasting for content planning and strategy.
 

@@ -1,5 +1,3 @@
-Chapter 2: Tools and Technologies for AI-Driven Non-Fiction Writing
-===================================================================
 
 In this chapter, we will explore the various tools and technologies available for AI-driven non-fiction writing, as well as how to select the right tools for your specific writing needs.
 

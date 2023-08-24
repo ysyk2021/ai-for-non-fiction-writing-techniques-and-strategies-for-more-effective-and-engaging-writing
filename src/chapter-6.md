@@ -1,5 +1,3 @@
-Chapter 6: Streamlining Editing and Proofreading with AI
-========================================================
 
 In this chapter, we will explore how AI can be used to streamline the editing and proofreading process for non-fiction writing.
 

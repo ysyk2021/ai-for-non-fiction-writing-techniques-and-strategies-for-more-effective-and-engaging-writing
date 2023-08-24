@@ -1,5 +1,3 @@
-Chapter 5: Improving Engagement and Readability with AI
-=======================================================
 
 In this chapter, we will explore how AI can be used to improve engagement and readability in non-fiction writing.
 

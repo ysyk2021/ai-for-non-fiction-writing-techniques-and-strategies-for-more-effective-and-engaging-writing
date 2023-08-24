@@ -1,5 +1,3 @@
-Automated Error Detection and Correction using AI
-===========================================================================================================
 
 In this chapter, we will explore how AI technology can streamline the editing and proofreading process for non-fiction writing. Specifically, we will discuss how automated error detection and correction using AI can improve the accuracy and efficiency of editing and proofreading.
 

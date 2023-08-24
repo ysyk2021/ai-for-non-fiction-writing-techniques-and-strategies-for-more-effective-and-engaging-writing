@@ -1,5 +1,3 @@
-Benefits of Incorporating AI into Writing Practices
-==========================================================================================================
 
 In this chapter, we will introduce the concept of AI for non-fiction writing and explore the benefits of incorporating AI technology into writing practices.
 

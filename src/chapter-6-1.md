@@ -1,5 +1,3 @@
-AI-Driven Editing and Proofreading Assistance
-=======================================================================================================
 
 In this chapter, we will explore how AI can be used to streamline the editing and proofreading process for non-fiction writing by providing AI-driven editing and proofreading assistance.
 

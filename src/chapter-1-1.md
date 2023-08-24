@@ -1,5 +1,3 @@
-Understanding the Role of AI in Non-Fiction Writing
-==========================================================================================================
 
 In this chapter, we will introduce the concept of AI for non-fiction writing and explore its role in the writing process.
 

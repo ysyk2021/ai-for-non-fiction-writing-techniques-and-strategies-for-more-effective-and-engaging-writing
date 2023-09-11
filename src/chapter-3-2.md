@@ -1,5 +1,4 @@
-Chapter: Predictive Analytics and Forecasting for Content Planning and Strategy
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
